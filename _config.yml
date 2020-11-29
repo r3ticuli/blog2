@@ -20,7 +20,7 @@
 
 title: r3ticuli
 baseurl: "/blog2" # the subpath of your site, e.g. /blog
-url: "r3ticuli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://r3ticuli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _ternal
 github_username: r3ticuli
 
